@@ -10,28 +10,55 @@
 /* Here is one of many  CSS rules you will need... */
 #one {
     border-style: solid;
-    border-color: orange;
+    border-color: blue;
     border-width: 5px;
+    margin: 5px;
+    padding: 5px;
     position: fixed;
+    width: 25%;
+    left: 70%;
+    top: 70%;
 }
 
 #two {
     border-style: solid;
-    border-color: orange;
+    border-color: green;
     border-width: 5px;
+    margin: 5px;
+    padding: 5px;
     position: fixed;
+    width: 25%;
+    left: 70%;
 }
 
 #three {
     border-style: solid;
     border-color: orange;
     border-width: 5px;
+    margin: 5px;
+    padding: 5px;
     position: fixed;
+    width: 25%;
 }
 
 #four {
     border-style: solid;
-    border-color: orange;
+    border-color: yellow;
     border-width: 5px;
+    margin: 5px;
+    padding: 5px;
     position: fixed;
+    width: 25%;
+    top: 70%;
+}
+
+a {
+    background-color: #3d59c6;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+#link {
+    text-align: center;
 }
