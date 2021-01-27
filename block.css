@@ -9,5 +9,9 @@
 
 /* Here is one of many  CSS rules you will need... */
 #one {
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+    position: fixed;
     
 }
