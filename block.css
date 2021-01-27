@@ -13,5 +13,25 @@
     border-color: orange;
     border-width: 5px;
     position: fixed;
-    
+}
+
+#two {
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+    position: fixed;
+}
+
+#three {
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+    position: fixed;
+}
+
+#four {
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+    position: fixed;
 }
